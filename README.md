@@ -6,7 +6,7 @@
 [![Chat on WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283871824192)
 
 ## A good wine is like a story—best when shared and savored."
-"Wine: turning ordinary moments into memories."
+> "Wine: turning ordinary moments into memories."
 "Sip slowly, live fully."
 
 <table>
@@ -14,13 +14,13 @@
 <td align="center">
  Wine Of Scarlet Night<br>
 <img src="https://raw.githubusercontent.com/madaaa-ev/madaa-arf.9/refs/heads/main/ezgif-7172dc4ddbc035d1.gif" width="250px"/><br>
-"Chasing dreams, one line of code any time."
+> "Chasing dreams, one line of code any time."
 </td>
 
 <td align="center">
  Calm & Focused<br>
 <img src="https://raw.githubusercontent.com/shiro-nesu/database-img/main/file_1772676960723.jpeg" width="250px"/><br>
-"Focus fuels creativity; silence fuckin inspires innovation."
+> "Focus fuels creativity; silence fuckin inspires innovation."
 </td>
 </tr>
 
@@ -34,7 +34,7 @@
 <td align="center">
  Reflection & Growth<br>
 <img src="https://raw.githubusercontent.com/shiro-nesu/database-img/main/file_1772677210093.jpeg" width="250px"/><br>
-"Every step is progress; every mistake is a lesson."
+> "Every step is progress; every mistake is a lesson."
 </td>
 </tr>
 </table>
