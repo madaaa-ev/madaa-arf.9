@@ -1,23 +1,23 @@
 # madaa-arf.9
-funeral procession at the seashore 
-# Hi, I'm madaa 👋
+funèral processiòn at the seàshore.
+# y'all w mada.
 💻 Passionate coder | Open-source enthusiast | Always exploring new ideas
 
 ---
 
-## 🌟 My Aesthetic Gallery
+## Another Red Eyes.
 
 ### Dreamy Vibes
-![Dreamy Video GIF]()  
-*"Chasing dreams, one line of code at a time."*
+![Dreamy GIF](https://raw.githubusercontent.com/madaaa-ev/madaa-arf.9/refs/heads/main/ezgif-7172dc4ddbc035d1.gif)  
+*"Chasing dreams, one line of code any time."*
 
 ### Calm & Focused
 ![Calm](https://raw.githubusercontent.com/shiro-nesu/database-img/main/file_1772676960723.jpeg)  
-*"Focus fuels creativity; silence inspires innovation."*
+*"Focus fuels creativity; silence fuckin inspires innovation."*
 
 ### Adventure & Curiosity
 ![Adventure](https://raw.githubusercontent.com/shiro-nesu/database-img/main/file_1772677018682.jpeg)  
-*"Exploring new paths, embracing challenges, learning endlessly."*
+*"Exploring new paths with wine of scarlet night & learning endlessly."*
 
 ### Reflection & Growth
 ![Reflection](https://raw.githubusercontent.com/shiro-nesu/database-img/main/file_1772677210093.jpeg)  
