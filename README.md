@@ -51,7 +51,8 @@
 
 ---
 
-## 🔗 Projects [](https://github.com/madaa/project1) ![Project1](https://img.shields.io/badge/Project1-GitHub-blue?style=for-the-badge&logo=github&logoColor=white) | 
+## 🔗 Projects 
+![](https://github.com/madaa/project1) ![Project1](https://img.shields.io/badge/Project1-GitHub-blue?style=for-the-badge&logo=github&logoColor=white) | 
 [](https://github.com/madaa/project2) ![Project2](https://img.shields.io/badge/Project2-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)
 
 ---
