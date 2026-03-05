@@ -1,13 +1,13 @@
-# madaa-arf.9
-funèral processiòn at the seàshore.
 # y'all w mada.
-💻 Passionate coder | Open-source enthusiast | Always exploring new ideas
+💻 My visionary is Passionate coder | Open-source enthusiast | Always exploring new ideas..
 
 ---
 
-## Another Red Eyes.
+## "A good wine is like a story—best when shared and savored."
+Wine: turning ordinary moments into memories.
+sip slowly, live fully.
 
-### Dreamy Vibes
+### Wine Of Scarlet Night
 ![Dreamy GIF](https://raw.githubusercontent.com/madaaa-ev/madaa-arf.9/refs/heads/main/ezgif-7172dc4ddbc035d1.gif)  
 *"Chasing dreams, one line of code any time."*
 
