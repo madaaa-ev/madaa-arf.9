@@ -2,6 +2,8 @@
 💻 My visionary is Passionate coder | Open-source enthusiast | Always exploring new ideas..
 
 ---
+## Wa Me : 
+[![Chat on WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283871824192)
 
 ## A good wine is like a story—best when shared and savored."
 "Wine: turning ordinary moments into memories."
@@ -45,17 +47,15 @@
 ![](https://img.shields.io/badge/Kotlin-1.9-purple?style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/R-4.3.1-blue?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Git-version-control-red?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Docker-container-blue?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/VSCode-editor-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🔗 Projects 
-![](https://github.com/madaa/project1) ![Project1](https://img.shields.io/badge/Project1-GitHub-blue?style=for-the-badge&logo=github&logoColor=white) | 
-[](https://github.com/madaa/project2) ![Project2](https://img.shields.io/badge/Project2-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)
+![](https://github.com/madaa/project1) ![Project1](https://img.shields.io/badge/Project1-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)  
 
 ---
+---
 
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=madaa&show_icons=true&theme=radical)
+
