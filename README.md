@@ -25,8 +25,8 @@ funèral processiòn at the seàshore.
 
 ---
 
-## ⚡ Skills & Tools
-- **Languages:** Python, JavaScript, Rust  
+## 🩸 Skills & Tools
+- **Languages:** Rust, JavaScript, Kotlin, R, Html 
 - **Tools:** Git, Docker, VSCode  
 
 ## 🔗 Projects
