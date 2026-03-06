@@ -1,8 +1,12 @@
-# y'all w mada.
+   # y'all w mada.
+   <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=50&duration=3500&pause=1200&color=000000&center=true&vCenter=true&width=1000&lines=Keep+Building+Code+With+Purpose;Small+Steps+Every+Day;Create+Something+Great">
+</p>
+<p align="center">
+<img src="https://readme-typing-
 💻 My visionary is Passionate coder | Open-source enthusiast | Always exploring new ideas..
-
 ---
-## Wa Me : 
+ 
 [![Chat on WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283871824192)
 
 ## A good wine is like a story—best when shared and savored."
